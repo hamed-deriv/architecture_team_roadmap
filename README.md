@@ -1,4 +1,4 @@
-# architecture and Quality Team Roadmap
+# Architecture and Quality Team Roadmap
 
 ### 1. Establish coding standards and conventions
 

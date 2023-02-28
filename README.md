@@ -12,9 +12,9 @@ Define a shared architecture that can be used across projects. This should inclu
 
 Develop a code review process that ensures all code is reviewed by another team member before it is merged into the main codebase. This helps catch any inconsistencies or errors in the code and ensures that everyone is following the coding standards and conventions.
 
-### 4. Develop a shared library
+### 4. Develop shared libraries
 
-Create a shared library that includes all the common components and widgets used across projects. This can include things like buttons, forms, and dialogs. This shared library should be maintained by the architecture and quality team, and all developers should use it when building new features.
+Create shared libraries that includes all the common components and widgets used across projects. This can include things like UI elements, helpers, and Shared packages. This shared library should be maintained by the architecture and quality team, and all developers should use it when building new features.
 
 ### 5. Keep Flutter SDK up to date
 

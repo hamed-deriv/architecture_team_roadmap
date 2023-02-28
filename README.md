@@ -1,6 +1,6 @@
 # architecture and Quality Team Roadmap
 
-### Establish coding standards and conventions
+### 1. Establish coding standards and conventions
 
 Define a set of coding standards and conventions that everyone on the team should follow. This should include things like naming conventions, file structure, code formatting, and documentation guidelines. This will help ensure that the code written by different developers is consistent and easy to understand.
 

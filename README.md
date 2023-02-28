@@ -6,7 +6,7 @@ Define a set of coding standards and conventions that everyone on the team shoul
 
 ### 2. Develop a shared architecture
 
-Define a shared architecture that can be used across projects. This should include things like how data flows through the application, how communication with the backend is handled, and how data is serialized and deserialized. This shared architecture should be based on the `BlocManager package` and the `flutter-deriv--api package` that we already have.
+Define a shared architecture that can be used across projects. This should include things like how data flows through the application, how communication with the backend is handled, and how data is serialized and deserialized. This shared architecture should be based on the `BlocManager package` and the `flutter-deriv-api package` that we already have.
 
 ### 3. Implement a code review process
 

@@ -16,9 +16,9 @@ Develop a code review process that ensures all code is reviewed by another team 
 
 Create a shared library that includes all the common components and widgets used across projects. This can include things like buttons, forms, and dialogs. This shared library should be maintained by the architecture and quality team, and all developers should use it when building new features.
 
-### 5. Keep Flutter up to date
+### 5. Keep Flutter SDK up to date
 
-Make sure to regularly update Flutter to the latest stable version. This will ensure that codebase is up to date with the latest features and improvements. We should also monitor the changelog and breaking changes to make sure that any necessary changes are made to the shared architecture and library.
+Make sure to regularly update Flutter SDK to the latest stable version. This will ensure that codebase is up to date with the latest features and improvements. We should also monitor the changelog and breaking changes to make sure that any necessary changes are made to the shared architecture and library.
 
 ### 6. Add the code measuring tool to CI/CD pipeline
 

@@ -5,7 +5,7 @@
 | # | Goal | Priority | Status | Why | How |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Establish coding standards and conventions | High | In Progress | Ensure code consistency and readability | Review existing codebase and document the agreed-upon standards |
-| 2 | Develop a shared architecture | Medium | Not Started | Ensure consistency and scalability | Use `BlocManager` and `flutter-deriv-api` as a basis for the architecture |
+| 2 | Develop a shared architecture | Medium | Not Started | Ensure consistency and scalability | Use `Bloc Manager` and `Flutter Deriv API` as a basis for the architecture |
 | 3 | Implement a code review process | Medium | Not Started | Catch errors and ensure compliance with coding standards | Assign reviewers and establish review guidelines |
 | 4 | Develop shared packages | High | In Progress | Promote code reuse and consistency | Maintain packages and encourage their use |
 | 5 | Keep Flutter SDK up to date | High | In Progress | Ensure access to new features and improvements | Monitor changelog and breaking changes and make necessary updates to the architecture and packages |
@@ -20,7 +20,7 @@ Define a set of coding standards and conventions that everyone on the team shoul
 
 ### 2. Develop a shared architecture
 
-Define a shared architecture that can be used across projects. This should include things like how data flows through the application, how communication with the backend is handled, and how data is serialized and deserialized. This shared architecture should be based on the `BlocManager` package and the `flutter-deriv-api` package that we already have.
+Define a shared architecture that can be used across projects. This should include things like how data flows through the application, how communication with the backend is handled, and how data is serialized and deserialized. This shared architecture should be based on the `Bloc Manager` package and the `Flutter Deriv API` package that we already have.
 
 ### 3. Implement a code review process
 

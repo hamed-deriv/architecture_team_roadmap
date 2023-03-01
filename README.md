@@ -1,5 +1,19 @@
 # Architecture and Quality Team Roadmap
 
+## Overview
+
+| # | Goal | Priority | Status | Why | How |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Establish coding standards and conventions | High | In Progress | Ensure code consistency and readability | Review existing codebase and document the agreed-upon standards |
+| 2 | Develop a shared architecture | Medium | Not Started | Ensure consistency and scalability | Use `BlocManager` and `flutter-deriv-api` as a basis for the architecture |
+| 3 | Implement a code review process | Medium | Not Started | Catch errors and ensure compliance with coding standards | Assign reviewers and establish review guidelines |
+| 4 | Develop shared libraries | High | In Progress | Promote code reuse and consistency | Maintain the library and encourage its use |
+| 5 | Keep Flutter SDK up to date | High | In Progress | Ensure access to new features and improvements | Monitor changelog and breaking changes and make necessary updates to the architecture and library |
+| 6 | Add the code measuring tool to CI/CD pipeline | Low | Not Started | Ensure consistent measurement of code quality | Select a code measuring tool and integrate it into the pipeline |
+| 7 | Maintain the codebase | Medium | Not Started | Ensure code quality and relevance | Monitor usage of the architecture and library and make updates as necessary |
+
+## Definitions
+
 ### 1. Establish coding standards and conventions
 
 Define a set of coding standards and conventions that everyone on the team should follow. This should include things like naming conventions, file structure, code formatting, and documentation guidelines. This will help ensure that the code written by different developers is consistent and easy to understand.

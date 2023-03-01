@@ -2,15 +2,15 @@
 
 ## Overview
 
-| # | Goal | Priority | Status | Why | How |
+| # | Goal | Why | How | Priority | Status |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Establish coding standards and conventions | High | In Progress | Ensure code consistency and readability | Review existing codebase and document the agreed-upon standards |
-| 2 | Develop a shared architecture | Medium | Not Started | Ensure consistency and scalability | Use `Bloc Manager` and `Flutter Deriv API` as a basis for the architecture |
-| 3 | Implement a code review process | Medium | Not Started | Catch errors and ensure compliance with coding standards | Assign reviewers and establish review guidelines |
-| 4 | Develop shared packages | High | In Progress | Promote code reuse and consistency | Maintain packages and encourage their use |
-| 5 | Keep Flutter SDK up to date | High | In Progress | Ensure access to new features and improvements | Monitor changelog and breaking changes and make necessary updates to the architecture and packages |
-| 6 | Add the code measuring tool to CI/CD pipeline | Low | Not Started | Ensure consistent measurement of code quality | Select a code measuring tool and integrate it into the pipeline |
-| 7 | Maintain the codebase | Medium | Not Started | Ensure code quality and relevance | Monitor usage of packages and make updates as necessary |
+| 1 | Establish coding standards and conventions | Ensure code consistency and readability | Review existing codebase and document the agreed-upon standards | High | In Progress |
+| 2 | Develop a shared architecture | Ensure consistency and scalability | Use `Bloc Manager` and `Flutter Deriv API` as a basis for the architecture | Medium | Not Started |
+| 3 | Implement a code review process | Catch errors and ensure compliance with coding standards | Assign reviewers and establish review guidelines | Medium | Not Started |
+| 4 | Develop shared packages | Promote code reuse and consistency | Maintain packages and encourage their use | High | In Progress |
+| 5 | Keep Flutter SDK up to date | Ensure access to new features and improvements | Monitor changelog and breaking changes and make necessary updates to the architecture and packages | High | In Progress |
+| 6 | Add the code measuring tool to CI/CD pipeline | Ensure consistent measurement of code quality | Select a code measuring tool and integrate it into the pipeline | Low | Not Started |
+| 7 | Maintain the codebase | Ensure code quality and relevance | Monitor usage of packages and make updates as necessary | Medium | Not Started |
 
 ## Definitions
 
